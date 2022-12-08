@@ -4,9 +4,7 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
-    "dist",
-    "src"
-  ],
+    "dist"],
   "engines": {
     "node": ">=10"
   },
@@ -24,7 +22,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-component-library",
+  "name": "@mekarahulguru/react-component-library",
   "author": "Rahul Meka",
   "module": "dist/react-component-library.esm.js",
   "size-limit": [
