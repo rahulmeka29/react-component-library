@@ -112,7 +112,7 @@ export const ButtonVariationsStory = () => {
             <h2 className="text-xl mt-6">Link Buttons</h2>
             <div className="mt-2">
                 <a className="btn-link" href="https://amazon.com">
-                    Amazon2
+                    Amazon3
                 </a>
                 <a className="ml-2 btn-link" href="https://apple.com">
                     Apple
